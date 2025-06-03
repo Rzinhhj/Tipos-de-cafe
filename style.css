@@ -12,6 +12,7 @@ body {
     font-family: "Playfair Display", serif;
     background-size: cover;
     background-attachment: fixed;
+    margin: auto 200px;
 
 }
 
@@ -31,7 +32,7 @@ h3{
     color: antiquewhite;
 }
 .moca{
-    color: #A18262;
+    color: #f0eee9;
 }
 h1{
 color: #f0eee9;
@@ -40,5 +41,5 @@ h2{
     color: #f0eee9;
 }
 .macchiato{
-color: #A18262;
+color: #f0eee9;
 }
