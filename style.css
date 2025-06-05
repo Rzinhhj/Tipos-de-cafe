@@ -16,7 +16,7 @@ body {
   background-color: #34210e;
     background-size: cover;
     background-attachment: fixed;
-    margin: auto 200px;
+    margin: auto ;
     display: flex;
 
 }
@@ -107,9 +107,10 @@ footer {
       flex-direction: row-reverse;
 }
 @media (max-width: 600px) {
-  .card, .card-re {
+ body .tudo .card, .card-re {
     flex-direction: column;
     text-align: center;
+    width: 100%;
   }
 
   .imgtop img {
